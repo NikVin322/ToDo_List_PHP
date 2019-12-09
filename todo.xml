@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TODO>
+  <Task>
+    <id>1</id>
+    <Target>Do something</Target>
+    <Description>Bla, bla, bla, bla, bla, bla, bla, bla</Description>
+    <CreateDate>10.11.18</CreateDate>
+    <Deadline>11.11.19</Deadline>
+    <BoolStatus>true</BoolStatus>
+  </Task>
+  <Task>
+    <id>2</id>
+    <Target>Take some items</Target>
+    <Description>Blablabla, blablabla, blablabla, blablabla, blablabla</Description>
+    <CreateDate>10.12.19</CreateDate>
+    <Deadline>30.12.19</Deadline>
+    <BoolStatus>true</BoolStatus>
+  </Task>
+  <Task>
+    <id>3</id>
+    <Target>Learn this</Target>
+    <Description>Alb, alb, alb, alb, alb</Description>
+    <CreateDate>10.10.18</CreateDate>
+    <Deadline>12.10.18</Deadline>
+    <BoolStatus>false</BoolStatus>
+  </Task>
+  <Task>
+    <id>4</id>
+    <Target>Buy this for lerning this</Target>
+    <Description>Lab, lab, lab, lab, lab, lab</Description>
+    <CreateDate>10.12.19</CreateDate>
+    <Deadline>21.12.19</Deadline>
+    <BoolStatus>true</BoolStatus>
+  </Task>
+  <Task>
+    <id>5</id>
+    <Target>Do something somewhere</Target>
+    <Description>La, la, la, la, la, la, la, la</Description>
+    <CreateDate>10.01.19</CreateDate>
+    <Deadline>12.03.19</Deadline>
+    <BoolStatus>false</BoolStatus>
+  </Task>
+</TODO>
